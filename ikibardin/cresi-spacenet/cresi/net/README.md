@@ -1,1 +1,0 @@
-Deep learning segmentation model, adapted from: https://github.com/SpaceNetChallenge/RoadDetector/tree/master/albu-solution
